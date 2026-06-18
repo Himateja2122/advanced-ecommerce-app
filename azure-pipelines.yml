@@ -7,6 +7,6 @@ pool:
   name: 'agent1'
 
 steps:
-- script: /home/azureuser/myagent/_work/1/s;mvn package
+- script: /home/azureuser/myagent/_work/1/s;mvn clean package
   displayName: 'Build'
 
