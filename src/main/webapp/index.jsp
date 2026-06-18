@@ -1,13 +1,13 @@
 <html>
 <head>
-<title>Well Come To Swati Online Store</title>
+<title>Online Store</title>
 <link rel="stylesheet" href="css/style.css">
 </head>
 
 <body>
 
 <div class="banner">
-<h1>Welcome To E-Commerce Store</h1>
+<h1>Well Come To Swati Online Store</h1>
 <p>Best Deals | Fast Delivery | Big Discounts</p>
 </div>
 
