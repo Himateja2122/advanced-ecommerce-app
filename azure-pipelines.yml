@@ -9,5 +9,5 @@ pool:
 steps:
 - script: /home/azureuser/myagent/_work/1/s;mvn clean package
   displayName: 'Build'
-- script: scp /home/azureuser/myagent/_work/3/s/target azureuser@20.51.232.46:/var/lib/tomcat10/webapps/testapp.war
+- script: scp /home/azureuser/myagent/_work/3/s/target/myapp.war azureuser@20.51.232.46:/var/lib/tomcat10/webapps/testapp.war
   displayName: 'Deployee'
