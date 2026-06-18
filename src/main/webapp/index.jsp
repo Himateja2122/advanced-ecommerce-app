@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>E-Commerce Store</title>
+<title>Well Come To Swati Online Store</title>
 <link rel="stylesheet" href="css/style.css">
 </head>
 
