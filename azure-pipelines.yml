@@ -12,3 +12,4 @@ steps:
 - script: scp /home/azureuser/myagent/_work/3/s/target/myapp.war azureuser@20.51.232.46:/var/lib/tomcat10/webapps/testapp.war
   displayName: 'Deployee to Qa'
 - script: scp /home/azureuser/myagent/_work/3/s/target/myapp.war azureuser@20.55.72.31:/var/lib/tomcat10/webapps/prodapp.war
+  displayName: 'Deployee to Production'
